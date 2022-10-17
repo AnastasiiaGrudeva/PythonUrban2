@@ -1,8 +1,8 @@
 # python-urban
 
 ## О работе
-- 
-- 
+- Грудева А.А.
+- https://colab.research.google.com/drive/1HgWOWbnv45nls0SD0qHGKmpyCEjlCXrX?usp=sharing
 
 ## Описание
 Итоговый проект для расчета количества объктов культурного наследия для улиц в выбранном районе Санкт-Петербурга. 
